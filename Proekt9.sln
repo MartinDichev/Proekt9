@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proekt9", "Proekt9\Proekt9.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31A3EF57-700B-477C-A083-308A738FA383}"
 	ProjectSection(SolutionItems) = preProject
-		..\Практика\Практика\Author.cs = ..\Практика\Практика\Author.cs
-		..\Практика\Практика\Book.cs = ..\Практика\Практика\Book.cs
-		..\Практика\Практика\Bookstore.cs = ..\Практика\Практика\Bookstore.cs
+		Author.cs = Author.cs
+		Book.cs = Book.cs
+		BookStore.cs = BookStore.cs
 		Genre.cs = Genre.cs
 		Program.cs = Program.cs
 	EndProjectSection
